@@ -1,4 +1,6 @@
 @import "blox/biography.css";
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600;700&display=swap');
+
 
 .dark {
     background-color: #115176 !important;
@@ -9,4 +11,7 @@
     height: 150px !important;
     object-fit: cover;
   }
-  
+
+  html {
+    font-family: 'Nunito Sans', sans-serif !important;
+  }
