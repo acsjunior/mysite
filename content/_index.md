@@ -31,77 +31,84 @@ sections:
           position: center
           parallax: false
   - block: markdown
+    id: bio
     content:
-      title: '📚 My Research'
+      title: 'Bio'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        Sou especialista em ciência de dados com foco em IA preditiva aplicada ao planejamento de demanda, atuando em uma das maiores operações de supply chain da América Latina.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        Desde 2020, atuo no Grupo Boticário, onde fui responsável por liderar uma evolução significativa na aplicação de modelos de IA preditiva voltados ao processo de S&OP. Fui promovido de cientista de dados a coordenador em 2022 e, atualmente, lidero uma equipe com 10 profissionais (cientistas de dados e engenheiros de ML) dedicada ao desenvolvimento, sustentação e melhoria contínua de modelos de previsão de demanda e soluções analíticas integradas ao processo de planejamento.
+
+        Sob minha liderança, ampliamos o uso de modelos preditivos em diferentes unidades de negócio e canais de venda do grupo, melhoramos métricas como WMAPE e Bias, desenvolvemos ferramentas que aumentaram a aderência dos planejadores de demanda às previsões geradas e evoluímos em engenharia de software e MLOps, atingindo um alto nível de maturidade técnica. Essas práticas têm sido fundamentais para garantir previsões confiáveis, integradas ao fluxo de decisão e com alto valor percebido pelo negócio.
+
+        Me destaco por promover um ambiente leve, colaborativo, tecnicamente exigente e com diversidade de gênero. Além disso, tenho genuína preocupação com o bem-estar e o desenvolvimento das pessoas. Como resultado, mantemos consistentemente elevados índices de engajamento no Team Culture (plataforma para mensuração do engajamento dos colaboradores).
+
+        Sou formado em Análise e Desenvolvimento de Sistemas, Especialista em Data Science & Big Data e Mestre em Otimização Aplicada. Minha trajetória profissional anterior inclui experiências nos setores portuário, de engenharia, óleo e gás, saúde e e-commerce, o que contribuiu para o desenvolvimento de uma visão sistêmica e um perfil generalista e orientado ao negócio. Também considero como meus pontos fortes o raciocínio lógico apurado, a comunicação clara e a facilidade para nutrir boas relações.
+
+        Possuo cidadania europeia (Portugal) e também atuo como mentor e professor, com paixão por compartilhar conhecimento e apoiar o desenvolvimento de profissionais.
     design:
       columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: post
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: date-title-summary
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
+  # - block: collection
+  #   id: papers
+  #   content:
+  #     title: Featured Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     view: article-grid
+  #     columns: 2
+  # - block: collection
+  #   content:
+  #     title: Recent Publications
+  #     text: ""
+  #     filters:
+  #       folders:
+  #         - publication
+  #       exclude_featured: false
+  #   design:
+  #     view: citation
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Recent & Upcoming Talks
+  #     filters:
+  #       folders:
+  #         - event
+  #   design:
+  #     view: article-grid
+  #     columns: 1
+  # - block: collection
+  #   id: news
+  #   content:
+  #     title: Recent News
+  #     subtitle: ''
+  #     text: ''
+  #     # Page type to display. E.g. post, talk, publication...
+  #     page_type: post
+  #     # Choose how many pages you would like to display (0 = all pages)
+  #     count: 5
+  #     # Filter on criteria
+  #     filters:
+  #       author: ""
+  #       category: ""
+  #       tag: ""
+  #       exclude_featured: false
+  #       exclude_future: false
+  #       exclude_past: false
+  #       publication_type: ""
+  #     # Choose how many pages you would like to offset by
+  #     offset: 0
+  #     # Page order: descending (desc) or ascending (asc) date.
+  #     order: desc
+  #   design:
+  #     # Choose a layout view
+  #     view: date-title-summary
+  #     # Reduce spacing
+  #     spacing:
+  #       padding: [0, 0, 0, 0]
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:

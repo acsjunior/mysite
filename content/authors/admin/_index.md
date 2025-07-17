@@ -238,6 +238,4 @@ languages:
 
 ## Sobre
 
-Sou especialista em ciência de dados e IA preditiva aplicada a planejamento de demanda, com histórico de liderança técnica e evolutiva dentro de uma das maiores operações de supply chain da América Latina.
-
-Desde 2020, atuo no Grupo Boticário, onde fui responsável por liderar uma evolução significativa na aplicação de modelos de IA preditiva voltados ao processo de S&OP. Fui promovido de cientista de dados a coordenador em 2022 e, atualmente, lidero uma equipe com 10 profissionais (cientistas de dados e engenheiros de ML) dedicada ao desenvolvimento, sustentação e melhoria contínua de modelos de previsão de demanda e soluções analíticas integradas ao processo de planejamento.
+Sou especialista em ciência de dados com foco em IA preditiva aplicada ao planejamento de demanda, atuando em uma das maiores operações de supply chain da América Latina. Desde 2020, no Grupo Boticário, tenho conduzido a evolução da aplicação de modelos preditivos no processo de S&OP. Fui promovido a coordenador em 2022 e, hoje, lidero um time de cientistas de dados e engenheiros de ML responsável por desenvolver, sustentar e aprimorar soluções analíticas integradas à tomada de decisão. Tenho um estilo de liderança que combina exigência técnica, colaboração genuína e cuidado com o bem-estar das pessoas. Minha trajetória inclui experiências em setores diversos, o que contribuiu para uma visão sistêmica, pragmática e orientada a resultados concretos.
