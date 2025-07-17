@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>António Júnior | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/author/antonio-junior/</link>
+      <atom:link href="http://localhost:1313/author/antonio-junior/index.xml" rel="self" type="application/rss+xml" />
+    <description>António Júnior</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>pt-br</language>
+    <image>
+      <url>http://localhost:1313/author/antonio-junior/avatar2_hu_64d3a572d293fb5f.jpg</url>
+      <title>António Júnior</title>
+      <link>http://localhost:1313/author/antonio-junior/</link>
+    </image>
+    
+  </channel>
+</rss>
