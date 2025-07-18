@@ -33,7 +33,7 @@ sections:
   - block: markdown
     id: bio
     content:
-      title: 'Bio'
+      title: 'Resumo Profissional'
       subtitle: ''
       text: |-
         Sou especialista em ciência de dados com foco em IA preditiva aplicada ao planejamento de demanda, atuando em uma das maiores operações de supply chain da América Latina.
