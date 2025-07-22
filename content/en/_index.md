@@ -1,0 +1,132 @@
+---
+# Leave the homepage title empty to use the site title
+title: ""
+date: 2022-10-24
+type: landing
+
+design:
+  # Default section spacing
+  spacing: "6rem"
+
+sections:
+  - block: resume-biography-3
+    content:
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin
+      text: ""
+      # Show a call-to-action button under your biography? (optional)
+      button:
+        text: Download CV
+        url: uploads/cv_acsjunior_en.pdf
+    design:
+      css_class: dark
+      background:
+        # color: black
+        # image:
+        #   # Add your image background to `assets/media/`.
+        #   filename: stacked-peaks.svg
+        #   filters:
+        #     brightness: 1.0
+        #   size: cover
+        #   position: center
+        #   parallax: false
+  - block: markdown
+    id: bio
+    content:
+      title: 'Professional Overview'
+      subtitle: ''
+      text: |-
+        I am a specialist in data science and predictive AI applied to demand planning, with a proven track record of technical and evolutionary leadership within one of the largest supply chain operations in Latin America.
+
+        Since 2020, I have been working at Grupo Boticário, where I have led significant advancements in the application of predictive AI models focused on the S&OP process. I was promoted from data scientist to team leader in 2022 and currently lead a team of 10 professionals (data scientists and ML engineers) dedicated to the development, maintenance, and continuous improvement of demand forecasting models and analytical solutions integrated into the planning process.
+
+        Under my leadership, we have expanded the use of predictive models across different business units and sales channels within the group, improved key metrics such as WMAPE and Bias, developed tools that increased planners’ adherence to generated forecasts, and advanced software engineering and MLOps practices, achieving a high level of technical maturity. These practices have been fundamental to ensuring reliable forecasts that are integrated into the decision-making flow and deliver high business value.
+
+        I am known for fostering a light, collaborative, technically demanding environment with a focus on gender diversity. Additionally, I have a genuine concern for the well-being and development of people. As a result, we consistently maintain high engagement scores on Team Culture, the platform used to measure employee engagement.
+
+        I hold a degree in Systems Analysis and Development, a specialization in Data Science & Big Data, and a Master’s degree in Applied Optimization. My previous professional experience spans the port, engineering, oil and gas, healthcare, and e-commerce sectors, which has contributed to the development of a systemic vision and a generalist, business-oriented profile. I also consider my strong logical reasoning, clear communication, and ability to build good relationships among my key strengths.
+
+        I hold European citizenship (Portugal) and also work as a mentor and professor, with a passion for sharing knowledge and supporting the development of professionals.
+    design:
+      columns: '1'
+  # - block: collection
+  #   id: papers
+  #   content:
+  #     title: Featured Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     view: article-grid
+  #     columns: 2
+  # - block: collection
+  #   content:
+  #     title: Recent Publications
+  #     text: ""
+  #     filters:
+  #       folders:
+  #         - publication
+  #       exclude_featured: false
+  #   design:
+  #     view: citation
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Recent & Upcoming Talks
+  #     filters:
+  #       folders:
+  #         - event
+  #   design:
+  #     view: article-grid
+  #     columns: 1
+  # - block: collection
+  #   id: news
+  #   content:
+  #     title: Recent News
+  #     subtitle: ''
+  #     text: ''
+  #     # Page type to display. E.g. post, talk, publication...
+  #     page_type: post
+  #     # Choose how many pages you would like to display (0 = all pages)
+  #     count: 5
+  #     # Filter on criteria
+  #     filters:
+  #       author: ""
+  #       category: ""
+  #       tag: ""
+  #       exclude_featured: false
+  #       exclude_future: false
+  #       exclude_past: false
+  #       publication_type: ""
+  #     # Choose how many pages you would like to offset by
+  #     offset: 0
+  #     # Page order: descending (desc) or ascending (asc) date.
+  #     order: desc
+  #   design:
+  #     # Choose a layout view
+  #     view: date-title-summary
+  #     # Reduce spacing
+  #     spacing:
+  #       padding: [0, 0, 0, 0]
+  # - block: cta-card
+  #   demo: true # Only display this section in the Hugo Blox Builder demo site
+  #   content:
+  #     title: 👉 Build your own academic website like this
+  #     text: |-
+  #       This site is generated by Hugo Blox Builder - the FREE, Hugo-based open source website builder trusted by 250,000+ academics like you.
+
+  #       <a class="github-button" href="https://github.com/HugoBlox/hugo-blox-builder" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star HugoBlox/hugo-blox-builder on GitHub">Star</a>
+
+  #       Easily build anything with blocks - no-code required!
+        
+  #       From landing pages, second brains, and courses to academic resumés, conferences, and tech blogs.
+  #     button:
+  #       text: Get Started
+  #       url: https://hugoblox.com/templates/
+  #   design:
+  #     card:
+  #       # Card background color (CSS class)
+  #       css_class: "bg-primary-700"
+  #       css_style: ""
+---

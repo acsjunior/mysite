@@ -9,15 +9,19 @@ pt:
   # contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-# en:
-#  languageCode: en-us
-#  contentDir: content/en
-#  title: English website title...
-#  weight: 2
-#  params:
-#    description: Site description in English...
-#  menu:
-#    main:
-#      - name: Name
-#        url: '#about'
-#        weight: 1
+en:
+ languageCode: en-us
+ contentDir: content/en
+ title: English website title...
+ weight: 2
+ params:
+   description: Site description in English...
+ menu:
+    main:
+      - name: Professional Overview
+        url: '#bio'
+        weight: 1
+      - name: Experience & Education
+        url: 'en/experience/'
+        weight: 2
+
