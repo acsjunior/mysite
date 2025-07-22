@@ -236,6 +236,6 @@ languages:
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## Sobre
+## About
 
 I am a data science specialist focused on predictive AI applied to demand planning, working within one of the largest supply chain operations in Latin America. Since 2020 at Grupo Boticário, I have led the advancement of predictive modeling in the S&OP process. I was promoted to coordinator in 2022 and currently lead a team of data scientists and ML engineers responsible for developing, maintaining, and improving analytical solutions integrated into decision-making. My leadership style combines technical rigor, genuine collaboration, and care for people’s well-being. My career includes experience across diverse sectors, contributing to a systemic, pragmatic, and results-driven perspective.
