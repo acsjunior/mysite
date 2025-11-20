@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Coordenador de Ciência de Dados
+role: Gerente de Dados & IA
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -77,12 +77,20 @@ education:
     # summary: |
 
 work:
+  - position: Gerente de Dados & IA
+    company_name: Grupo Boticário
+    company_url: 'https://www.grupoboticario.com.br/'
+    company_logo: ''
+    date_start: 2025-11-01
+    date_end: ''
+    summary: ''
+
   - position: Coordenador de Ciência de Dados
     company_name: Grupo Boticário
     company_url: 'https://www.grupoboticario.com.br/'
     company_logo: ''
     date_start: 2022-12-01
-    date_end: ''
+    date_end: '2025-10-31'
     summary: |2-
       
       Assumi a coordenação da equipe de ciência de dados da área de planejamento de demanda durante a migração dos modelos de IA preditiva para uma nova plataforma proprietária de planejamento. Conduzi essa migração com foco em estabilidade, governança e alinhamento entre tecnologia e negócio.
@@ -238,4 +246,4 @@ languages:
 
 ## Sobre
 
-Sou especialista em ciência de dados com foco em IA preditiva aplicada ao planejamento de demanda, atuando em uma das maiores operações de supply chain da América Latina. Desde 2020, no Grupo Boticário, tenho conduzido a evolução da aplicação de modelos preditivos no processo de S&OP. Fui promovido a coordenador em 2022 e, hoje, lidero um time de cientistas de dados e engenheiros de ML responsável por desenvolver, sustentar e aprimorar soluções analíticas integradas à tomada de decisão. Tenho um estilo de liderança que combina exigência técnica, colaboração genuína e cuidado com o bem-estar das pessoas. Minha trajetória inclui experiências em setores diversos, o que contribuiu para uma visão sistêmica, pragmática e orientada a resultados concretos.
+Sou especialista em ciência de dados com foco em IA preditiva aplicada ao planejamento de demanda, atuando em uma das maiores operações de supply chain da América Latina. Desde 2020, no Grupo Boticário, tenho conduzido a evolução da aplicação de modelos preditivos no processo de S&OP. Atualmente, lidero uma equipe multidisciplinar responsável por desenvolver, sustentar e aprimorar soluções analíticas integradas à tomada de decisão. Tenho um estilo de liderança que combina exigência técnica, colaboração genuína e cuidado com o bem-estar das pessoas. Minha trajetória inclui experiências em setores diversos, o que contribuiu para uma visão sistêmica, pragmática e orientada a resultados concretos.

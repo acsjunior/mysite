@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Data Science Leader
+role: Data & AI Manager
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -77,12 +77,20 @@ education:
     # summary: |
 
 work:
+  - position: Data & AI Manager
+    company_name: Grupo Boticário
+    company_url: 'https://www.grupoboticario.com.br/'
+    company_logo: ''
+    date_start: 2025-11-01
+    date_end: ''
+    summary: |2-
+
   - position: Data Science Leader
     company_name: Grupo Boticário
     company_url: 'https://www.grupoboticario.com.br/'
     company_logo: ''
     date_start: 2022-12-01
-    date_end: ''
+    date_end: '2025-10-31'
     summary: |2-
       
       I assumed leadership of the data science team in the demand planning area during the migration of predictive AI models to a new proprietary planning platform. I led this transition with a focus on stability, governance, and alignment between technology and business.
@@ -238,4 +246,4 @@ languages:
 
 ## About
 
-I am a data science specialist focused on predictive AI applied to demand planning, working within one of the largest supply chain operations in Latin America. Since 2020 at Grupo Boticário, I have led the advancement of predictive modeling in the S&OP process. I was promoted to coordinator in 2022 and currently lead a team of data scientists and ML engineers responsible for developing, maintaining, and improving analytical solutions integrated into decision-making. My leadership style combines technical rigor, genuine collaboration, and care for people’s well-being. My career includes experience across diverse sectors, contributing to a systemic, pragmatic, and results-driven perspective.
+I am a data science specialist focused on predictive AI applied to demand planning, working within one of the largest supply chain operations in Latin America. Since 2020 at Grupo Boticário, I have led the advancement of predictive modeling in the S&OP process. I currently lead a multidisciplinary team responsible for developing, maintaining, and improving analytical solutions integrated into decision-making. My leadership style combines technical rigor, genuine collaboration, and care for people’s well-being. My career includes experience across diverse sectors, contributing to a systemic, pragmatic, and results-driven perspective.

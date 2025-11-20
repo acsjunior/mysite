@@ -38,7 +38,7 @@ sections:
       text: |-
         I am a specialist in data science and predictive AI applied to demand planning, with a proven track record of technical and evolutionary leadership within one of the largest supply chain operations in Latin America.
 
-        Since 2020, I have been working at Grupo Boticário, where I have led significant advancements in the application of predictive AI models focused on the S&OP process. I was promoted from data scientist to team leader in 2022 and currently lead a team of 10 professionals (data scientists and ML engineers) dedicated to the development, maintenance, and continuous improvement of demand forecasting models and analytical solutions integrated into the planning process.
+        Since 2020, I have been working at Grupo Boticário, where I have led significant advancements in the application of predictive AI models focused on the S&OP process. I currently lead a multidisciplinary team dedicated to the development, maintenance, and continuous improvement of demand forecasting models and analytical solutions integrated into the planning process.
 
         Under my leadership, we have expanded the use of predictive models across different business units and sales channels within the group, improved key metrics such as WMAPE and Bias, developed tools that increased planners’ adherence to generated forecasts, and advanced software engineering and MLOps practices, achieving a high level of technical maturity. These practices have been fundamental to ensuring reliable forecasts that are integrated into the decision-making flow and deliver high business value.
 
