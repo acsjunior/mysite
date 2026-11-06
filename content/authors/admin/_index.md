@@ -83,7 +83,9 @@ work:
     company_logo: ''
     date_start: 2025-11-01
     date_end: ''
-    summary: ''
+    summary: |2-
+      
+      Em 2025, assumi a gerência de Dados & IA com escopo ampliado, passando a liderar frentes de Engenharia de Dados, Analytics Engineering e Inteligência Artificial. Nessa posição, meu foco está em garantir que dados e IA sejam ativos reais no processo decisório e na evolução de produtos digitais, não apenas entregas técnicas. Trabalho na interface entre tecnologia e negócio, priorizando soluções robustas, escaláveis e com alto valor percebido pelas áreas parceiras. Sigo comprometido com a construção de um time de alta performance: tecnicamente exigente, colaborativo e com ambiente saudável. A gestão de pessoas (contratação, desenvolvimento, avaliação e engajamento) continua sendo parte central da minha atuação como gestor.
 
   - position: Coordenador de Ciência de Dados
     company_name: Grupo Boticário

@@ -84,6 +84,8 @@ work:
     date_start: 2025-11-01
     date_end: ''
     summary: |2-
+      
+      In 2025, I took on the role of Data & AI Manager with an expanded scope, leading the Data Engineering, Analytics Engineering, and Artificial Intelligence teams. In this position, my focus is on ensuring that data and AI become real assets in decision-making and in the evolution of digital products, rather than just technical deliverables. I work at the interface between technology and business, prioritizing robust, scalable solutions that deliver high perceived value to partner areas. I remain committed to building a high-performance team: technically demanding, collaborative, and with a healthy work environment. People management (hiring, development, performance evaluation, and engagement) continues to be a central part of my role as a manager.
 
   - position: Data Science Leader
     company_name: Grupo Boticário
