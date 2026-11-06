@@ -12,10 +12,12 @@ pt:
 en:
  languageCode: en-us
  contentDir: content/en
- title: English website title...
+ title: António Júnior | Data Science
  weight: 2
  params:
-   description: Site description in English...
+   marketing:
+     seo:
+       description: 'Data & AI Manager specialized in predictive AI for demand planning, S&OP and supply chain.'
  menu:
     main:
       - name: Professional Overview
