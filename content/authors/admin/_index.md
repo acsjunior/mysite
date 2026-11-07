@@ -110,11 +110,11 @@ work:
     date_end: 2022-12-01
     summary: |2-
       
-      Como cientista de dados sênior na área de planejamento de demanda, atuei durante a estruturação da plataforma de dados corporativa no Google Cloud Platform (GCP), contribuindo com a homologação de dezenas de tabelas e com a tradução de regras críticas da malha logística para uma tabela estruturada e democratizada na nova arquitetura.
-      
-      Nesse período, atuei de forma muito próxima ao negócio, aplicando abordagens como o Dynamic Time Warping em um teste A/B para avaliar mudanças no comportamento de compra de franqueados em função de uma proposta de alteração no processo de cancelamento de pedidos pendentes. A análise resultou em uma proposta de solução, que foi implementada com sucesso.
-      
-      Também fui responsável pela reescrita de um modelo legado de previsão de demanda para Python com LightGBM, garantindo sua integração à nova plataforma de planejamento de demanda desenvolvida pelo time de tecnologia do Grupo Boticário.
+      Como cientista de dados sênior, minha atuação ganhou um caráter mais estratégico e transversal. Participei ativamente da estruturação da plataforma de dados corporativa no Google Cloud Platform (GCP), contribuindo com a homologação de dezenas de tabelas e com a tradução de regras críticas da malha logística para uma arquitetura democratizada e escalável.
+
+      Trabalhei de forma próxima ao negócio, aplicando técnicas como Dynamic Time Warping em um teste A/B para avaliar mudanças no comportamento de compra de franqueados, análise que resultou em uma proposta implementada com sucesso. Também fui responsável pela reescrita de um modelo legado de previsão de demanda em Python com LightGBM, garantindo sua integração à nova plataforma de planejamento em construção pelo time de tecnologia.
+
+      Foi nesse período que desenvolvi a visão de que soluções de dados só geram valor quando são adotadas, e passei a atuar cada vez mais na ponte entre o que a tecnologia entrega e o que o negócio de fato usa.
 
   - position: Cientista de Dados Pleno
     company_name: Grupo Boticário

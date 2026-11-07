@@ -110,11 +110,11 @@ work:
     date_end: 2022-12-01
     summary: |2-
       
-      As a senior data scientist in demand planning, I worked during the structuring of the corporate data platform on Google Cloud Platform (GCP), contributing to the validation of dozens of tables and translating critical logistics network rules into a structured and democratized table within the new architecture.
+      As a senior data scientist, my role took on a more strategic and cross-functional character. I actively participated in structuring the corporate data platform on Google Cloud Platform (GCP), contributing to the validation of dozens of tables and translating critical logistics network rules into a democratized and scalable architecture.
 
-      During this period, I worked closely with the business, applying approaches such as Dynamic Time Warping in an A/B test to assess changes in franchisees’ purchasing behavior due to a proposed change in the pending order cancellation process. The analysis resulted in a solution proposal, which was successfully implemented.
+      I worked closely with the business, applying techniques such as Dynamic Time Warping in an A/B test to evaluate changes in franchisees' purchasing behavior, an analysis that resulted in a successfully implemented proposal. I was also responsible for rewriting a legacy demand forecasting model in Python with LightGBM, ensuring its integration with the new planning platform being built by the technology team.
 
-      I was also responsible for rewriting a legacy demand forecasting model in Python using LightGBM, ensuring its integration with the new demand planning platform developed by Grupo Boticário’s technology team.
+      It was during this period that I developed the view that data solutions only create value when they are adopted, and I increasingly began to act as a bridge between what technology delivers and what the business actually uses.
 
   - position: Data Scientist
     company_name: Grupo Boticário
