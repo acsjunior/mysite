@@ -95,13 +95,13 @@ work:
     date_end: '2025-10-31'
     summary: |2-
       
-      Assumi a coordenação da equipe de ciência de dados da área de planejamento de demanda durante a migração dos modelos de IA preditiva para uma nova plataforma proprietária de planejamento. Conduzi essa migração com foco em estabilidade, governança e alinhamento entre tecnologia e negócio.
+      Assumi a coordenação durante um momento crítico: a migração dos modelos de IA preditiva para uma nova plataforma proprietária de planejamento. Conduzi esse processo com foco em estabilidade, governança e alinhamento entre tecnologia e negócio, sem interromper a operação.
 
-      Sob minha liderança, desenvolvemos modelos de IA preditiva para previsão de demanda de novas marcas e canais de venda do grupo, alcançando o maior número de modelos produtivos já registrados na história do GB. Esse avanço foi viabilizado pela consolidação de um time altamente técnico, pela evolução dos pipelines de MLOps e por um fluxo de desenvolvimento que permitiu acelerar entregas incrementais sem abrir mão de robustez, escalabilidade e alinhamento com o negócio. Também liderei experimentos para melhoria contínua dos modelos, que impactaram significativamente métricas como WMAPE e Bias, além de promover a cultura da perenidade e escalabilidade das soluções a partir do amadurecimento da equipe em engenharia de software e MLOps.
-      
-      Liderei iniciativas para aumentar a aderência dos planejadores aos modelos, como o desenvolvimento de um farol de confiabilidade das previsões e de um módulo de explicabilidade que permite aos usuários compreender o impacto de fatores como sazonalidade, canibalização, elasticidade de preço, ressaca e promoções nas previsões geradas. Também conduzi um projeto estratégico com consultoria externa para experimentação de novas abordagens preditivas, no qual nossos modelos foram validados como referência de mercado.
-      
-      Priorizando a diversidade, conduzi contratações que resultaram em um time com equilíbrio de gênero (50% mulheres). Cultivo um ambiente leve, colaborativo e tecnicamente exigente, com foco genuíno no bem-estar e no desenvolvimento da equipe. Como resultado, mantemos altos níveis de engajamento na plataforma Team Culture, com destaque para os pilares de Liderança, Felicidade, Bem-Estar, Feedback e Crescimento Pessoal.
+      À frente de um time de ~10 pessoas, liderei a expansão dos modelos preditivos para novas marcas e canais de venda, atingindo o maior número de modelos em produção da história do Grupo Boticário. Esse resultado foi viabilizado pela maturidade técnica do time em MLOps e engenharia de software, e por um fluxo de desenvolvimento que permitia acelerar entregas sem abrir mão de robustez e escalabilidade.
+
+      Além da entrega técnica, conduzi iniciativas para aumentar a adoção dos modelos pelos planejadores de demanda, incluindo um farol de confiabilidade das previsões e um módulo de explicabilidade que permitia entender o impacto de fatores como sazonalidade, promoções, elasticidade de preço e canibalização. Também liderei um projeto estratégico com consultoria externa, no qual nossos modelos foram validados como referência de mercado.
+
+      Na gestão do time, priorizei diversidade de gênero (50% mulheres), ambiente colaborativo e desenvolvimento genuíno de cada pessoa, o que se refletiu em altos índices de engajamento sustentados ao longo de toda a coordenação, tornando meu modelo de gestão uma referência na diretoria.
   - position: Cientista de Dados Sênior
     company_name: Grupo Boticário
     company_url: 'https://www.grupoboticario.com.br/'

@@ -95,13 +95,13 @@ work:
     date_end: '2025-10-31'
     summary: |2-
       
-      I assumed leadership of the data science team in the demand planning area during the migration of predictive AI models to a new proprietary planning platform. I led this transition with a focus on stability, governance, and alignment between technology and business.
+      I took over as coordinator at a critical moment: the migration of predictive AI models to a new proprietary planning platform. I led this process with a focus on stability, governance, and alignment between technology and business, without disrupting operations.
 
-      Under my leadership, we developed predictive AI models for forecasting demand across new brands and sales channels within the group, reaching the highest number of production forecasting models ever recorded in the history of Grupo Boticário. This achievement was enabled by building a highly technical team, advancing our MLOps pipelines, and establishing a development flow that accelerated incremental deliveries without compromising robustness, scalability, or business alignment. I also led experiments to continuously improve existing models, significantly impacting metrics such as WMAPE and Bias, while fostering a culture of solution longevity and scalability through our maturity in software engineering and MLOps.
+      Leading a team of ~10 people, I drove the expansion of predictive models to new brands and sales channels, reaching the highest number of models in production in Grupo Boticário's history. This result was made possible by the team's technical maturity in MLOps and software engineering, and by a development workflow that allowed us to accelerate deliveries without compromising robustness and scalability.
 
-      I led initiatives to increase planners' adherence to the models, such as the development of a forecast reliability indicator and an explainability module that allows users to understand the impact of factors such as seasonality, cannibalization, price elasticity, post-promotion dip, and promotions on the predictions. I also led a strategic project in partnership with an external S&OP consultancy to test new predictive approaches, in which our models were validated as market benchmarks.
+      Beyond technical delivery, I led initiatives to increase model adoption among demand planners, including a forecast reliability indicator and an explainability module that showed the impact of factors such as seasonality, promotions, price elasticity, and cannibalization. I also led a strategic project with an external consultancy, in which our models were validated as a market benchmark.
 
-      With a focus on diversity, I led hiring efforts that resulted in a gender-balanced team (50% women). I foster a collaborative, technically rigorous, and positive work environment, with a genuine commitment to the well-being and development of the team. As a result, we maintain high engagement scores on the Team Culture platform, with highlights in Leadership, Happiness, Well-being, Feedback, and Personal Growth.
+      In managing the team, I prioritized gender diversity (50% women), a collaborative environment, and the genuine development of each person, which was reflected in high engagement scores sustained throughout my time as coordinator, making my management model a benchmark within the department.
   - position: Senior Data Scientist
     company_name: Grupo Boticário
     company_url: 'https://www.grupoboticario.com.br/'
