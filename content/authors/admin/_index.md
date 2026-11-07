@@ -124,9 +124,11 @@ work:
     date_end: 2021-10-01
     summary: |2-
       
-      Ingressei na equipe de Ciência de Dados do Grupo Boticário com o objetivo de desenvolver soluções preditivas que apoiassem o time de planejamento de demanda na tomada de decisão. Fui responsável por desenvolver um modelo de IA preditiva baseado em Gradient Boosting para prever a probabilidade de uma previsão estatística precisar de ajuste pelos planejadores de demanda. Essa solução se tornou essencial para ajudar os times a priorizarem quais previsões ajustar, em um cenário de sobrecarga e alta incerteza comportamental dos canais de venda durante a pandemia de COVID-19. 
-      
-      Além da modelagem, fui responsável por todo o fluxo de deployment, monitoramento e sustentação da solução, garantindo sua operação em ambiente produtivo com governança e rastreabilidade.
+      Ingressei no Grupo Boticário para desenvolver soluções preditivas de apoio ao planejamento de demanda, em um dos momentos mais desafiadores para qualquer modelo estatístico: a pandemia de COVID-19.
+
+      Fui responsável por desenvolver um modelo baseado em árvores de decisão para prever a probabilidade de uma previsão estatística precisar de ajuste manual pelos planejadores. Em um cenário de alta incerteza e sobrecarga das equipes, a solução tornou-se essencial para priorizar quais previsões revisar, gerando impacto direto na eficiência do processo de S&OP.
+
+      Além da modelagem, fui responsável por todo o ciclo de vida da solução: deployment, monitoramento e sustentação em ambiente produtivo, com governança e rastreabilidade. Foi minha primeira experiência com o ciclo completo de um produto de dados, e definiu muito do que me tornei como profissional.
 
   - position: Cientista de Dados Júnior
     company_name: Olist

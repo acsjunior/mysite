@@ -124,9 +124,11 @@ work:
     date_end: 2021-10-01
     summary: |2-
       
-      I joined the Data Science team at Grupo Boticário with the objective of developing predictive solutions to support the demand planning team in decision-making. I was responsible for developing a predictive AI model based on Gradient Boosting to forecast the probability that a statistical forecast would require adjustment by demand planners. This solution became essential in helping teams prioritize which forecasts to adjust, in a context of overload and high behavioral uncertainty in sales channels during the COVID-19 pandemic.
+      I joined Grupo Boticário to develop predictive solutions supporting demand planning, during one of the most challenging periods for any statistical model: the COVID-19 pandemic.
 
-      In addition to modeling, I was responsible for the entire deployment, monitoring, and maintenance process of the solution, ensuring its operation in a production environment with governance and traceability.
+      I was responsible for developing a decision tree-based model to predict the probability that a statistical forecast would require manual adjustment by planners. In a scenario of high uncertainty and overloaded teams, the solution became essential for prioritizing which forecasts to review, directly improving the efficiency of the S&OP process.
+
+      Beyond modeling, I was responsible for the entire solution lifecycle: deployment, monitoring, and maintenance in production, with governance and traceability. It was my first experience with the full lifecycle of a data product, and it shaped much of who I have become as a professional.
 
   - position: Junior Data Scientist
     company_name: Olist
