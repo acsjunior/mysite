@@ -138,13 +138,11 @@ work:
     date_end: 2020-09-01
     summary: |2-
       
-      I worked on the analytics team, collaborating directly with the customer relationship area. I developed the company's first churn probability model, which resulted in this [scientific article](https://acervodigital.ufpr.br/xmlui/handle/1884/75037).
+      Olist was my definitive entry into data science, and an intense learning ground. I worked on the analytics team focused on the customer relations area, applying predictive models and NLP techniques to real business problems.
 
-      I used natural language processing techniques to analyze consumer reviews and comments, proposing strategic actions to improve service quality and, consequently, enhance the ratings of the company’s official store on marketplaces such as Mercado Livre and Americanas.
+      I developed the company's first churn probability model, work that resulted in a scientific publication and showed me, in practice, the full cycle of a data project: from the business question to delivery with measurable impact. I also used natural language processing to analyze customer reviews, generating strategic recommendations that helped improve the company's reputation on marketplaces such as Mercado Livre and Americanas.
 
-      I regularly attended Multivariate Analysis and other statistics courses taught by Professor Anselmo Chaves from UFPR, held on company premises. I also participated in workshops and academic events, including the 2019 Operational Research and Logistics Symposium held by the Brazilian Navy in Rio de Janeiro.
-
-      I was responsible for developing and delivering an 8-hour Google Sheets training for employees across various departments, in addition to contributing to the development of the new onboarding process for new hires.
+      This is where I developed the technical foundation and business vision that I still carry today, and that shaped the professional who joined Grupo Boticário a year later.
 
   - position: Data Analyst
     company_name: Hilab

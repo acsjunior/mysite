@@ -138,13 +138,11 @@ work:
     date_end: 2020-09-01
     summary: |2-
       
-      Atuei na equipe de analytics, colaborando diretamente com a área de relacionamento com o consumidor. Desenvolvi o primeiro modelo de probabilidade de churn da empresa, que originou este [artigo científico](https://acervodigital.ufpr.br/xmlui/handle/1884/75037).
-      
-      Utilizei técnicas de processamento de linguagem natural para analisar avaliações e comentários de consumidores, propondo ações estratégicas para aprimorar a qualidade do serviço e, consequentemente, melhorar as avaliações da loja oficial da empresa em marketplaces como Mercado Livre e Americanas.
-      
-      Participei regularmente das aulas de Análise Multivariada e outros tópicos de estatística ministradas pelo professor Anselmo Chaves da UFPR, realizadas nas dependências da empresa. Também participei de workshops e eventos acadêmicos, como o Simpósio de Pesquisa Operacional e Logística da Marinha de 2019, no Rio de Janeiro.
-      
-      Fui responsável pelo desenvolvimento e ministração de um treinamento de 8 horas em Google Sheets para colaboradores de diversos setores, além de colaborar no desenvolvimento do novo processo de integração de novos colaboradores.
+      A Olist foi minha entrada definitiva na ciência de dados, e uma escola intensa. Atuei na equipe de analytics com foco na área de relacionamento com o consumidor, aplicando modelos preditivos e técnicas de NLP em problemas reais de negócio.
+
+      Desenvolvi o primeiro modelo de probabilidade de churn da empresa, trabalho que resultou em uma publicação científica e que me mostrou, na prática, o ciclo completo de um projeto de dados: da pergunta de negócio à entrega com impacto mensurável. Também utilizei processamento de linguagem natural para analisar avaliações de consumidores, gerando recomendações estratégicas que contribuíram para a melhoria da reputação da empresa em marketplaces como Mercado Livre e Americanas.
+
+      Foi aqui que desenvolvi a base técnica e a visão de negócio que carrego até hoje, e que moldaram o profissional que entrou no Grupo Boticário um ano depois.
 
   - position: Analista de Dados
     company_name: Hilab
