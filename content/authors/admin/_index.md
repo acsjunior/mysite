@@ -152,11 +152,11 @@ work:
     date_end: 2019-09-01
     summary: |2-
       
-      Em uma transição de carreira, fui contratado pela Hilab como estagiário aos 32 anos, enquanto cursava Bacharelado em Matemática como segunda graduação. Após quatro meses, fui efetivado como Analista de Dados.
-      
-      Contribuí para a implementação do Power BI na empresa, atuando desde o projeto do data warehouse no Amazon Redshift e o desenvolvimento de pipelines para ingestão de dados no Amazon S3, provenientes do Azure Cosmos DB, até a construção de dashboards e relatórios interativos para diversos departamentos.
-      
-      Além disso, participei de um comitê de Growth Hacking composto por membros de diferentes áreas, com foco na avaliação dos principais desafios e alavancas da empresa, levantamento e priorização de hipóteses e modelagem de experimentos.
+      Aos 32 anos, decidi mudar de carreira. Deixei uma trajetória sólida no setor de Óleo & Gás para começar do zero na área de dados, como estagiário, enquanto cursava Bacharelado em Matemática como segunda graduação. Quatro meses depois, fui efetivado como Analista de Dados.
+
+      Na Hilab, participei da implementação do Power BI na empresa, atuando desde a modelagem do data warehouse no Amazon Redshift e o desenvolvimento de pipelines de ingestão de dados no Amazon S3 provenientes do Azure Cosmos DB, até a construção de dashboards e relatórios interativos para diferentes departamentos. Também integrei um comitê de Growth Hacking multidisciplinar, com foco em levantamento e priorização de hipóteses e modelagem de experimentos.
+
+      Essa experiência confirmou que a transição valeu cada risco. E a visão sistêmica que trouxe de setores anteriores se tornou, desde então, um dos meus principais diferenciais como profissional de dados.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`

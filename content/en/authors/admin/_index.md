@@ -152,11 +152,11 @@ work:
     date_end: 2019-09-01
     summary: |2-
       
-      During a career transition, I was hired by Hilab as an intern at the age of 32, while pursuing a Bachelor's degree in Mathematics as a second graduation. After four months, I was promoted to Data Analyst.
+      At 32, I decided to change careers. I left a solid track record in the Oil & Gas sector to start from scratch in data as an intern, while pursuing a Bachelor's degree in Mathematics as a second degree. Four months later, I was hired full-time as a Data Analyst.
 
-      I contributed to the implementation of Power BI in the company, working from the design of the data warehouse on Amazon Redshift and the development of data ingestion pipelines on Amazon S3, sourced from Azure Cosmos DB, to the creation of interactive dashboards and reports for various departments.
+      At Hilab, I took part in implementing Power BI across the company, working from data warehouse modeling on Amazon Redshift and building data ingestion pipelines into Amazon S3 from Azure Cosmos DB, to creating interactive dashboards and reports for different departments. I was also part of a multidisciplinary Growth Hacking committee, focused on gathering and prioritizing hypotheses and designing experiments.
 
-      Additionally, I participated in a Growth Hacking committee composed of members from different areas, focusing on evaluating the company’s main challenges and levers, raising and prioritizing hypotheses, and modeling experiments.
+      This experience confirmed that the transition was worth every risk. And the systemic view I brought from previous industries has since become one of my main differentiators as a data professional.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
